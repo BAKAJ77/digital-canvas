@@ -1,7 +1,7 @@
 package core;
 
 import java.nio.*;
-import math.*;
+import util.*;
 
 import org.lwjgl.*;
 import org.lwjgl.glfw.*;

@@ -1,4 +1,4 @@
-package math;
+package util;
 
 /**
  * <p> A simple utility class representing a two-dimensional vector.
