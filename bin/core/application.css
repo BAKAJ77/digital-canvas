@@ -1,0 +1,37 @@
+.label {
+	-fx-font-family: Consolas;
+	-fx-font-size: 1.2em;
+	-fx-font-weight: bold;
+}
+
+.toggle-button {
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-radius: 0;
+    -fx-background-color: transparent;
+    -fx-font-family: Arial;
+    -fx-font-size: 1em; /* 12 */
+    -fx-text-fill: #828282;
+}
+
+.toggle-button:hover {
+	-fx-background-color: #D3D3D3;
+	-fx-text-fill: white;
+}
+
+.toggle-button:focused {
+    -fx-border-color: transparent, black;
+    -fx-border-width: 1, 1;
+    -fx-border-radius: 0, 0;
+    -fx-border-insets: 1 1 1 1, 0;
+}
+
+.toggle-button:pressed {
+    -fx-background-color: grey;
+    -fx-text-fill: white;
+}
+
+.toggle-button:selected {
+	-fx-background-color: #5A5A5A;
+	-fx-text-fill: white;
+}
