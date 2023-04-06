@@ -12,10 +12,7 @@ Since this software project is being developed in Java, it should be compatible 
 
 All you will need to install is the Java Development Kit and a suitable Java IDE. </br>
 The [Eclipse IDE](https://www.eclipse.org/downloads/) is recommended since this repository already contains the needed project files therefore saving you the trouble
-of setting up project files in another IDE.
-
-**NOTE:** It is recommended that you refrain from installing the latest JDK version and instead install an older stable version like [JDK 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) 
-since the LWJGL framework does not support the newer JDK versions at this moment in time which could result in unexpected behaviour. </br>
+of setting up project files in another IDE. Finally, you can download JDK 19 from [here](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html).
 
 <ins>**2. Downloading the repository:**</ins>
 
